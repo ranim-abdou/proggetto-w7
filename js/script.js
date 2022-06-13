@@ -1,5 +1,5 @@
-let promise = fetch('../users.json')
-/*fetch("users.json")*/
+
+fetch('../users.json')
 .then(function(response){
 
 })
